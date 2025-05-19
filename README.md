@@ -8,8 +8,8 @@ It focuses on descriptive statistics, exploratory data anyalsis, visualizing dis
 - Interactive dashboards using Power BI
 
 ## 📁 Files
--'NHL_Capstone.ipynb': Main Jupyter Workbook
--'NHL Dashboard.pbix': Power BI Dashboard
+- 'NHL_Capstone.ipynb': Main Jupyter Workbook
+- 'NHL Dashboard.pbix': Power BI Dashboard
 
 ## 🧰 Skills used
 - Python, Jupyter, Pandas, Seaborn, Data Analysis, Data Visualization, Power BI
