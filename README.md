@@ -15,4 +15,5 @@ It focuses on descriptive statistics, exploratory data anyalsis, visualizing dis
 - Python, Jupyter, Pandas, Seaborn, Data Analysis, Data Visualization, Power BI
 
 ## 👀 Preview
-![MVP Dashboard](MVP_dashboard.png)
+<img width="1068" alt="MVP_dashboard" src="https://github.com/user-attachments/assets/32f8021f-b835-4259-9e05-99acd83ae597" />
+
