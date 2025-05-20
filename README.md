@@ -15,5 +15,6 @@ It focuses on descriptive statistics, exploratory data anyalsis, visualizing dis
 - Python, Jupyter, Pandas, Seaborn, Data Analysis, Data Visualization, Power BI
 
 ## 👀 Preview
-Screenshot 2025-05-20 at 14.36.10
+<img width="704" alt="Screenshot 2025-05-20 at 14 36 10" src="https://github.com/user-attachments/assets/7a70568e-0b5e-4617-b638-2ce879bd59cf" />
+
 
